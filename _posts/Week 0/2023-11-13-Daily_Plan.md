@@ -19,3 +19,9 @@ DevOps: Patrick
 Backend Developer: Arthur
 
 Frontend Developer: Eun
+
+tuesday - went over binary counting
+
+wednesday - project ideation plus design (work)
+
+thursday - did ideation live review and finished adding binary conversion to our calculator 
