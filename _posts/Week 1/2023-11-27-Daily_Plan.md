@@ -13,3 +13,4 @@ courses: { compsci: {week: 1} }
     - implement Javascript with Eun
 - Team Teach (Thursday)
     - have it prepped for review Wednesday 
+- internet team teach 
