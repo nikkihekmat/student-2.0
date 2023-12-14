@@ -15,4 +15,5 @@ courses: { compsci: {week: 3} }
       - do the homework hacks
     - finish CPT review with teacher 
 - wednesday
+  - undecidable problems team teach 
 
