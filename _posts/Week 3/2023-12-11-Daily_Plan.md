@@ -16,4 +16,6 @@ courses: { compsci: {week: 3} }
     - finish CPT review with teacher 
 - wednesday
   - undecidable problems team teach 
+- thursday
+  - crowdsourcing team teach 
 
