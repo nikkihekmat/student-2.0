@@ -12,7 +12,8 @@ courses: { compsci: {week: 4} }
     - make new frontend and backend
 - tuesday: 
     - ethics team teach 
-- wednesday
-- thursday: turn in MCQ on College Board
+- wednesday: work on MCQ on College Board
+- thursday: safe computing team teach
+- friday: finish 2020 Practice MCQ + reflection
 
 
